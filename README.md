@@ -28,7 +28,7 @@
 	* Quadratic optimization
 4. Deep Learning, a Primer 
 	* [Multi Layer Perceptron](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_04_P1.ipynb) on CIFAR dataset 
-	* [Adaboost](https://github.com/rhull21/ml-ece-projects/blob/main/[code/HW_04_P2.ipynb) with weak (decision tree) classifier in two dimensions
+	* [Adaboost](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_04_P2.ipynb) with weak (decision tree) classifier in two dimensions
 	* [Recurrent Neural Networks](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_04_P3.ipynb) for Language Modeling using the Shakespeare dataset
 5. Advanced Deep Learning Themes
 	* [Self-training and Semi Supervised Learning](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_05.ipynb) on 2D Gaussian Data
