@@ -36,7 +36,7 @@
 * Final Project 
 	* **What is the performance and transferability of Long Short Term Memory (LSTM) prediction of streamflow across different Hydrologic basins?**
 
-					```
+
 					Abstract—This study presents a Machine Learning (ML)
 					approach to learn streamflow dynamics in the Upper Colorado
 					River Basin (UCRB). Long Short-Term Memory (LSTM)
@@ -57,5 +57,4 @@
 					transfer learning from novel data-driven approaches, like LSTM,
 					can be used to make hydrologically relevant predictions.)
 
-					```
 
