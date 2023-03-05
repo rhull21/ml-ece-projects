@@ -1,12 +1,10 @@
 # Engineering Applications of Machine Learning and Data Analytics
 
-* Machine Learning and Deep Learning micro-projects
-	* Derived projects conducted for the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
+## Machine Learning and Deep Learning micro-projects
+* Derived projects conducted for the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
 	* Full details about the course under `syllabus`, credits to [Gregory Ditzler](http://gditzler.github.io/) for course design.
-	* All work presented here is original to Robert Hull *from scratch*, with appropriate sources referenced when necessary.
+* All work presented here is original to Robert Hull *from scratch*, with appropriate sources referenced when necessary.
 	
-# Contents:
-
 ## Organization: 
 
 * `projects` - contains project assignments and writeups
