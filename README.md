@@ -2,7 +2,7 @@
 
 * Homeworks and Projects conducted for Repository for the contents of the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
 	* More details about the course under `syllabus`. 
-	* Full credits to Gregory Ditzler for course design. [Gregory Ditzler](http://gditzler.github.io/) 
+	* Full credits to [Gregory Ditzler](http://gditzler.github.io/)  for course design.
 	
 * Homework and Projects original work conducted for class by Robert Hull
 
