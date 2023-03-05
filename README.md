@@ -1,11 +1,10 @@
 # Engineering Applications of Machine Learning and Data Analytics
 
-* Homeworks and Projects conducted for Repository for the contents of the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
-	* More details about the course under `syllabus`. 
-	* Full credits to [Gregory Ditzler](http://gditzler.github.io/)  for course design.
+* Machine Learning and Deep Learning micro-projects
+	* Derived projects conducted for the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
+	* Full details about the course under `syllabus`, credits to [Gregory Ditzler](http://gditzler.github.io/) for course design.
+	* All work presented here is original to Robert Hull 
 	
-* Homework and Projects original work conducted for class by Robert Hull
-
 # Contents:
 
 ## Organization: 
