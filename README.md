@@ -34,8 +34,7 @@
 * HW 5 
 	* Semi Supervised Learning 
 * Final Project 
-	* "What is the performance and transferability of LSTM prediction of streamflow across different Hydrologic basins?"
-
+	* **What is the performance and transferability of LSTM prediction of streamflow across different Hydrologic basins?**
 		```
 		Abstract—This study presents a Machine Learning (ML)
 		approach to learn streamflow dynamics in the Upper Colorado
