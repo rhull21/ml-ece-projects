@@ -15,13 +15,9 @@
 ## Project Outline: 
 
 1. [Basic classifiers and probability toolkit](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_01_final.ipynb)
-	* Generating random samples
-	* Calculating the descriminant
 	* 2D classification with a quadratic classifier
-	* Calculating the Mahalanobis distance
 	* Bayes Decision Rule Classifiers 
 	* Bayes Classifier 
-	* Sampling from a distribution 
 2. [Regression and Density Estimation](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_02_final.ipynb)
 	* Linear Regression with Regularization 
 	* Stochastic Gradient Descent
