@@ -3,7 +3,7 @@
 * Machine Learning and Deep Learning micro-projects
 	* Derived projects conducted for the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
 	* Full details about the course under `syllabus`, credits to [Gregory Ditzler](http://gditzler.github.io/) for course design.
-	* All work presented here is original to Robert Hull 
+	* All work presented here is original to Robert Hull *from scratch*, with appropriate sources referenced when necessary.
 	
 # Contents:
 
@@ -16,25 +16,31 @@
 	
 ## Project Outline: 
 
-*  HW 1 
-	* Probability and Discriminant Classifiers
+1. [Basic classifiers and probability toolkit](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_01_final.ipynb)
+	* Generating random samples
+	* Calculating the descriminant
+	* 2D classification with a quadratic classifier
+	* Calculating the Mahalanobis distance
 	* Bayes Decision Rule Classifiers 
 	* Bayes Classifier 
-* HW 2
-	* Linear Classifier with a margin 
+	* Sampling from a distribution 
+2. [Regression and Density Estimation](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_02_final.ipynb)
 	* Linear Regression with Regularization 
-	* Density Estimation 
-* HW 3
+	* Stochastic Gradient Descent
+	* KNN with a checkerboard  
+3. [Support Vector Machines](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_03_final.ipynb)
 	* L2 Support Vector Machine 
 	* Domain Adaptation Support Vector Machines 
-* HW 4 
-	* Multi Layer Perceptron 
-	* Adaboost 
-	* Recurrent Neural Networks for Language Modeling 
-* HW 5 
-	* Semi Supervised Learning 
-* Final Project 
-	* **What is the performance and transferability of Long Short Term Memory (LSTM) prediction of streamflow across different Hydrologic basins?**
+	* Quadratic optimization
+4. Deep Learning, a Primer 
+	* [Multi Layer Perceptron](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_04_P1.ipynb) on CIFAR dataset 
+	* [Adaboost](https://github.com/rhull21/ml-ece-projects/blob/main/[code/HW_04_P2.ipynb) with weak (decision tree) classifier in two dimensions
+	* [Recurrent Neural Networks](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_04_P3.ipynb) for Language Modeling using the Shakespeare dataset
+5. Advanced Deep Learning Themes
+	* [Self-training and Semi Supervised Learning](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_05.ipynb) on 2D Gaussian Data
+	* [Self-training on real-world data with K-fold cross validation](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_05b_kfold.ipynb)
+* Research Investigation 
+	* **What is the performance and transferability of Long Short Term Memory (LSTM) prediction of streamflow across different Hydrologic basins?** [Writeup](https://github.com/rhull21/ml-ece-projects/blob/main/projects/finalproj/Hull_finalproj_final_submission.pdf) and [codebase](https://github.com/rhull21/ml-ece-projects/blob/main/code/final_proj.ipynb)
 
 
 					Abstract—This study presents a Machine Learning (ML)
