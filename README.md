@@ -34,10 +34,13 @@
 	* [Self-training and Semi Supervised Learning](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_05.ipynb) on 2D Gaussian Data
 	* [Self-training on real-world data with K-fold cross validation](https://github.com/rhull21/ml-ece-projects/blob/main/code/HW_05b_kfold.ipynb)
 * Research Investigation 
-	* **What is the performance and transferability of Long Short Term Memory (LSTM) prediction of streamflow across different Hydrologic basins?** [Writeup](https://github.com/rhull21/ml-ece-projects/blob/main/projects/finalproj/Hull_finalproj_final_submission.pdf) and [codebase](https://github.com/rhull21/ml-ece-projects/blob/main/code/final_proj.ipynb)
+	* **What is the performance and transferability of Long Short Term Memory (LSTM) prediction of streamflow across different Hydrologic basins?** 
+		* [Writeup](https://github.com/rhull21/ml-ece-projects/blob/main/projects/finalproj/Hull_finalproj_final_submission.pdf) 
+		* [Codebase](https://github.com/rhull21/ml-ece-projects/blob/main/code/final_proj.ipynb)
+		* Abstract
 
 
-					Abstract—This study presents a Machine Learning (ML)
+					This study presents a Machine Learning (ML)
 					approach to learn streamflow dynamics in the Upper Colorado
 					River Basin (UCRB). Long Short-Term Memory (LSTM)
 					statistical emulators are used to predict daily streamflow across a
