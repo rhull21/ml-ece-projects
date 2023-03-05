@@ -1,4 +1,4 @@
-#Engineering Applications of Machine Learning and Data Analytics
+# Engineering Applications of Machine Learning and Data Analytics
 
 * Homeworks and Projects conducted for Repository for the contents of the University of Arizona's Engineering Applications of Machine Learning and Data Analytics Course, Spring 2021
 	* More details about the course under `syllabus`. 
